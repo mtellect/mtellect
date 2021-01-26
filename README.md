@@ -1,6 +1,6 @@
-## Hola, I'm Maugost Okore! 👋
+## Hi there!, I'm Maugost Okore! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mtellect&label=Views&color=blue&style=plastic" alt="mtellect" /> </p>
 
 <a href="https://twitter.com/imaugost">
   <img align="left" alt="Maugost's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -29,9 +29,9 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
 
-[![Twitter: iammaugost](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/imthepk)
-[![Linkedin: imthepk](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/imthepk/)
-[![GitHub iammaugost](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/iampawan)
+[![Twitter: iammaugost](https://img.shields.io/twitter/follow/imaugost?style=social)](https://twitter.com/imaugost)
+[![Linkedin: iammaugost](https://img.shields.io/badge/-iammaugost-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/maugost-okore-a6a116179/)](linkedin.com/in/maugost-okore-a6a116179/)
+[![GitHub iammaugost](https://img.shields.io/github/followers/mtellect?label=follow&style=social)](https://github.com/mtellect)
 
 
 **Languages and Tools:**  
@@ -40,21 +40,22 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://avatars.githubusercontent.com/u/1335026?s=200&v=4"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
-<a href="https://github.com/iampawan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampawan&theme=light&hide_langs_below=1" />
+
+<a href="https://github.com/mtellect">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtellect&theme=light&hide_langs_below=1" />
 </a>
-<a href="https://github.com/iampawan">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=iampawan&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
+<a href="https://github.com/mtellect">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=mtellct&show_icons=true&theme=light&line_height=27" alt="Maugost's github stats"/>
 </a>
-<a href="https://github.com/iampawan/FlutterExampleApps">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=FlutterExampleApps&theme=light" />
+<a href="https://github.com/iampawan/Sew4me">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mtellect&repo=Sew4me&theme=light" />
 
 </a>
-<a href="https://github.com/iampawan/VelocityX">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=VelocityX&theme=light" />
+<a href="https://github.com/iampawan/AccessBank-Clone">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mtellect&repo=AccessBank-Clone&theme=light" />
 </a>
 
 <div align="center">
