@@ -20,7 +20,7 @@
 
 
 
-- 🔭 I’m currently working on [Frontier](https://frontier.xyz/).
+<!-- - 🔭 I’m currently working on [Frontier](https://frontier.xyz/). -->
 - 🌱 I’m currently learning more about BlockChain Development.
 - 👯 I’m looking to collaborate on [Youtube](https://youtube.com/iammaugost).
 - 🤔 I’m looking for help with Blockchain Flutter documentation.
