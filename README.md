@@ -22,12 +22,12 @@
 
 <!-- - 🔭 I’m currently working on [Frontier](https://frontier.xyz/). -->
 - 🌱 I’m currently learning more about BlockChain Development.
-- 👯 I’m looking to collaborate on [Youtube](https://youtube.com/iammaugost).
+- 👯 Start my flutter carier teaching videos on youtube [Youtube](https://youtube.com/iammaugost).
 - 🤔 I’m looking for help with Blockchain Flutter documentation.
 - 💬 Ask me about Flutter or any tech related stuff.
 - 📫 How to reach me: [Twitter - @imaugost](https://twitter.com/imaugost) , [Youtube - @iammaugost](https://youtube.com/iammaugost)
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
+<!-- - 😄 Pronouns: He/His -->
+- ⚡ Fun fact: I spend almost all day coding.
 
 [![Twitter: iammaugost](https://img.shields.io/twitter/follow/imaugost?style=social)](https://twitter.com/imaugost)
 [![Linkedin: iammaugost](https://img.shields.io/badge/-iammaugost-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/maugost-okore-a6a116179/)](linkedin.com/in/maugost-okore-a6a116179/)
