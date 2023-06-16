@@ -34,6 +34,13 @@
 [![GitHub iammaugost](https://img.shields.io/github/followers/mtellect?label=follow&style=social)](https://github.com/mtellect)
 
 
+## 📟 GitHub Stats
+<p align="center">
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=mtellect&show_icons=true&theme=vue" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mtellect&theme=vue" />
+</p>
+
+
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
