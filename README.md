@@ -22,11 +22,10 @@
 <br/>
 
 
-
-<!-- - 🔭 I’m currently working on [Frontier](https://frontier.xyz/). -->
+- 🌱 I’m currently building apps with Flutter.
 - 🌱 I’m currently learning more about BlockChain Development.
+- 🌱 I’m currently learning more about AR.
 - 👯 Start my flutter carier teaching videos on youtube [Youtube](https://youtube.com/iammaugost).
-- 🤔 I’m looking for help with Blockchain Flutter documentation.
 - 💬 Ask me about Flutter or any tech related stuff.
 - 📫 How to reach me: [Twitter - @imaugost](https://twitter.com/imaugost) , [Youtube - @iammaugost](https://youtube.com/iammaugost)
 <!-- - 😄 Pronouns: He/His -->
