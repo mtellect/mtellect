@@ -38,13 +38,13 @@
 
 ## 📟 GitHub Stats
 <p align="center-left">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=mtellect&show_icons=true&theme=vue" />
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=mtellect&count_private=true&show_icons=true&theme=vue" />
 	<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=mtellect&theme=vue" />
 </p>
 
 ## 💳 Github Profile Summary Card
 <p align="center-left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mtellect&theme=vue"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mtellect&count_private=true&theme=vue"/>
 </p>
 
 
