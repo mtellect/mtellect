@@ -22,7 +22,10 @@
 <br/>
 
 
-- 🌱 I’m currently building apps with Flutter.
+- 🌱 I build apps with Flutter (Android, iOS, Web).
+- 🌱 I build Native Brigdes for flutter.
+- 🌱 I build servers with Dart.
+- 🌱 I build servers with Java.
 - 🌱 I’m currently learning more about BlockChain Development.
 - 🌱 I’m currently learning more about AR.
 - 👯 Start my flutter carier teaching videos on youtube [Youtube](https://youtube.com/iammaugost).
